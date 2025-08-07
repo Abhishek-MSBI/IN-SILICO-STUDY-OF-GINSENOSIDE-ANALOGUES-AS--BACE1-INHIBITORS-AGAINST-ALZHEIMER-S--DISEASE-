@@ -1,0 +1,2 @@
+# IN SILICO STUDY OF GINSENOSIDE ANALOGUES AS  BACE1 INHIBITORS AGAINST ALZHEIMER'S  DISEASE 
+This project leverages in silico methodologies, specifically molecular docking, to identify  promising ginsenoside analogues with the potential to bind to BACE1 and inhibit its activity.1  Computational tools offer an efficient and cost-effective means for virtual screening of vast  chemical libraries, enabling the identification of potential drug candidates and the elucidation of  their molecular mechanisms of action prior to empirical experimentation.
