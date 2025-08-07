@@ -1,6 +1,8 @@
 # In Silico Study of Ginsenoside Analogues as BACE1 Inhibitors Against Alzheimer's Disease
 This repository contains the data and report for a Master of Science in Bioinformatics project conducted at Garden City University. The study focuses on the computational identification and characterization of ginsenoside analogues as potential inhibitors of Beta-site APP Cleaving Enzyme 1 (BACE1), a key therapeutic target in Alzheimer's Disease.
 
+Research paper : https://abhishek-msbi.github.io/IN-SILICO-STUDY-OF-GINSENOSIDE-ANALOGUES-AS--BACE1-INHIBITORS-AGAINST-ALZHEIMER-S--DISEASE-/
+
 ## Project Description
 Alzheimer's disease (AD) is a devastating neurodegenerative disorder with a significant global health impact. The "amyloid hypothesis" posits that the accumulation of amyloid-beta (Aβ) peptides is a primary driver of the disease. BACE1 is the rate-limiting enzyme responsible for producing these Aβ peptides, making it a prime target for therapeutic intervention. However, numerous BACE1 inhibitors have failed in late-stage clinical trials, often due to a combination of safety concerns and a lack of clinical efficacy, despite successfully lowering Aβ levels.
 
